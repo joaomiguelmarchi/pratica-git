@@ -1,4 +1,4 @@
-package tela;
+package pratica5;
 
 import java.awt.EventQueue;
 

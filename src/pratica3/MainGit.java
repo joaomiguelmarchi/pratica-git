@@ -1,4 +1,4 @@
-package ifsc;
+package pratica3;
 
 /**
  * 
